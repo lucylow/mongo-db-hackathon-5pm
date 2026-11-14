@@ -1,4 +1,4 @@
-# mongo-db-hackathon-5pm
+# ContextPilot — the governed memory layer for retail AI agents
 
 STATEMENT TWO: MEMORY YOU CAN GOVERN 
 
