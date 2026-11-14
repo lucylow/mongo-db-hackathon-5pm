@@ -1,5 +1,9 @@
 # ContextPilot — the governed memory layer for retail AI agents
 
+
+WHERE IS MongoDB Atlas connection string
+
+=================
 Your required database connection
 
 1. Create your project and cluster through the MongoDB Atlas Hackathon Sandbox invitation.
