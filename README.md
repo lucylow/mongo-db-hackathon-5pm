@@ -3,6 +3,8 @@
 
 **Remember with evidence. Retrieve with permission. Evolve with control.**
 
+![](https://github.com/lucylow/mongo-db-hackathon-5pm/blob/main/000.png?raw=true)
+
 ![Project Status](https://img.shields.io/badge/Project-Technical%20Demo-6366F1)
 ![Database](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248)
 ![AI](https://img.shields.io/badge/AI-Governed%20Agents-7C3AED)
